@@ -105,3 +105,9 @@ live2d:
 
 #头像
 avatar: /images/headphoto.jpg
+
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
