@@ -9,6 +9,8 @@ type: "about"
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=725223287&auto=1&height=430"></iframe>
 
+[^_^]: # (<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=950 height=450 src="http://cyixlq.gitee.io/hiegher_music_app/#/iframe/6371069856"></iframe>)
+
 <center><h1>谢文奇的个人简历</h1></center>
 
 ## 个人资料
